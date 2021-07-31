@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplityappf30a81fc": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
